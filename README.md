@@ -7,7 +7,7 @@ Agar Anda dapat lebih memahami topik fragment, akan ada beberapa codelab yang ak
 
 _Codelab_ pada kali ini akan menghasilkan aplikasi seperti ini:
 
-![Fragment](https://user-images.githubusercontent.com/68750843/115343515-41909600-a1d6-11eb-8459-f284c218f2a5.gif)
+![Fragment](https://user-images.githubusercontent.com/68750843/115343752-96cca780-a1d6-11eb-9725-78a73e51e89a.gif)
 
 # Logika Dasar
 Melakukan __klik ke button__ -> __memanggil fragment atau activity__ dengan atau tanpa data -> __menampilkan activity atau fragment__ yang dituju
